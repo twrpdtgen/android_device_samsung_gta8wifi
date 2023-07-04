@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_gta8wifi.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_gta8wifi-user \
-    omni_gta8wifi-userdebug \
-    omni_gta8wifi-eng
+    android-12.1_gta8wifi-user \
+    android-12.1_gta8wifi-userdebug \
+    android-12.1_gta8wifi-eng
